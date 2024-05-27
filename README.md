@@ -60,3 +60,4 @@ The server accesses the restored database. Thus, you need to put your db authent
    3.2. Script tagging and Displaying semantic metadata
    [`frontend/src/modules/prep`](https://github.com/namwkim/storyexplorer/tree/master/frontend/src/modules/prep)
    
+# Non-linear_movie_script_display
